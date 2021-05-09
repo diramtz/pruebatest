@@ -1,5 +1,5 @@
 from pytest import approx
-import ffmaxc as ff 
+from ffmaxc import *
 import networkx as nx
 
 
